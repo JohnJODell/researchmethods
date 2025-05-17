@@ -1,0 +1,1 @@
+define({ availableImg: ["seraglia_exploratory_2011","Beck2016Visual"]});

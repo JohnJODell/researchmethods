@@ -1,0 +1,1 @@
+define({availablePdf: ["coyle_suitability_2004"]});
